@@ -17,6 +17,7 @@
   <title>Control Hogar - Hexa Group | Sistema Inteligente de Seguridad</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Poppins:wght@300;400;600&display=swap');
+<img width="1080" height="1080" alt="Portada caja" src="https://github.com/user-attachments/assets/3f0984b7-a823-446b-b74e-7c4eaad0259d" />
 
     * {
       margin: 0;
